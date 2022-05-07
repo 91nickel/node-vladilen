@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    box-sizing: content-box;
+    font-size: 10px;
+    width: 990px;
+    background-color: #ccc;
+    margin: auto;
+}
